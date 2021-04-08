@@ -1,0 +1,13 @@
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\bin\Debug\netcoreapp3.1\GroceryShoppingList.exe
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\bin\Debug\netcoreapp3.1\GroceryShoppingList.deps.json
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\bin\Debug\netcoreapp3.1\GroceryShoppingList.runtimeconfig.json
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\bin\Debug\netcoreapp3.1\GroceryShoppingList.runtimeconfig.dev.json
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\bin\Debug\netcoreapp3.1\GroceryShoppingList.dll
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\bin\Debug\netcoreapp3.1\GroceryShoppingList.pdb
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\obj\Debug\netcoreapp3.1\GroceryShoppingList.csprojAssemblyReference.cache
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\obj\Debug\netcoreapp3.1\GroceryShoppingList.AssemblyInfoInputs.cache
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\obj\Debug\netcoreapp3.1\GroceryShoppingList.AssemblyInfo.cs
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\obj\Debug\netcoreapp3.1\GroceryShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\obj\Debug\netcoreapp3.1\GroceryShoppingList.dll
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\obj\Debug\netcoreapp3.1\GroceryShoppingList.pdb
+C:\Users\lawre\source\repos\GroceryShoppingList\GroceryShoppingList\obj\Debug\netcoreapp3.1\GroceryShoppingList.genruntimeconfig.cache
